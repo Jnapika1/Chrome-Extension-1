@@ -12,7 +12,6 @@ getTitleBtn.addEventListener('click', async()=>{
         if(data.result){
             titleName.innerText=data.result;
         }
-        // const title =
     })
      
 })
